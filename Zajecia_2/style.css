@@ -1,0 +1,43 @@
+.option{
+    float: left;
+    min-width: 50px;
+    height: 25px;
+    font-size: 18px;
+    padding: 10px;
+    border-right: 2px dotted #444444;
+    opacity: 0.8;
+    
+}
+#option1{
+    border-left: 2px dotted #444444;
+}
+
+.option:hover{
+    background-color: #000000;
+    cursor: pointer;
+}
+
+.obszarzew{
+    width: 200px;
+    height: 300px;
+    float: left;
+    
+}
+#obszarwew{
+    height: 300px;
+    width:70%;
+    background-color: gray;
+    float: left;
+    text-align:center;
+}
+
+#zaloguj{
+    clear:both;
+    text-align: right;
+    background-color: lightblue;
+}
+ #menu{
+    background-color: rgb(135, 160, 243);
+    margin-left: 25%;
+    visibility: visible;
+ }
